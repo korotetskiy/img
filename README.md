@@ -19,4 +19,3 @@
    Option2
 </h3>
   <p>list of AWS services with which the student worked within the educational program or earlier and the full list with links of completed labs (based on tutorials or qwiklabs). Provide the link to the website in your report and CV. fonts, and images. </p>
-  
