@@ -22,20 +22,19 @@
 1. Download MySQL server for your OS on VM.
 2. Install MySQL server on VM.
 sudo apt-get install mysql-server
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
 3. Select a subject area and describe the database schema, (minimum 3 tables)
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
 4. Create a database on the server through the console.
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
  
 5. Fill in tables.
-    
+     <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
 
 
 
 6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.
- 
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg"> 
  
 7. Execute other different SQL queries DDL, DML, DCL.
 Data Definition Language (DDL) -  CREATE,    ALTER,    DROP,   TRUNCATE
@@ -59,14 +58,14 @@ Data Control Language (DCL) - Grant, Revoke
 
 8. Create a database of new users with different privileges.           
 Connect to the databases a new user and verify that the privileges allow or deny certain actions.  
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
  
 9. Make a selection from the main table DB MySQL.
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
 
 PART 2
 10. Make backup of your database.
- 
+  <img src="https://vkor-www.s3.amazonaws.com/main1.jpg">
 11. Delete the table and/or part of the data in the table.
  
 12. Restore your database.
